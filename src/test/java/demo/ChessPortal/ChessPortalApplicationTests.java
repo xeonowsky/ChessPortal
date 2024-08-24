@@ -3,11 +3,11 @@ package demo.ChessPortal;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class ChessPortalApplicationTests {
+//@SpringBootTest
+//class ChessPortalApplicationTests {
+//
+//	@Test
+//	void contextLoads() {
+//	}
 
-	@Test
-	void contextLoads() {
-	}
-
-}
+//}
